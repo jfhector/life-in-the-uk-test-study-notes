@@ -1,0 +1,73 @@
+# Britain since 1945
+
+## The establishment of the Welfare State
+
+* 1945, Labour, Attlee
+  * Introduced Welfare State (outlined in Beveridge Report)
+    * Establishment of NHS
+    * Secial security
+  * Nationalisations
+
+* Self government for former colonies
+  * 1947
+    * India, Pakistan, Sri Lanka
+  * Next 20 years
+    * Africa, Caribbean, Pacific
+
+* Labour shortages
+  * Immigration encouraged until late 1960s
+
+* NATO
+  
+* 1551-1964 Convervative
+
+## How life changed in the 60s
+
+* Social laws liberalised
+* Gender discrimination illegal
+
+* Late 1960s: laws restricting immigration
+
+## How life changed in the 70s
+
+* Prices rise sharply
+  * Balance of payments
+
+* Strikes
+
+* Unrest in Northern Ireland
+    * 1972 Parliament suspended, direct rule
+    * 3,000 lost lives
+
+* Europe and Common Market
+  * 1957 Treaty of Rome
+  * 1973 UK join
+
+## Events since 1979
+
+* 1979-90 Thatcher
+  * Privatisations
+  * Legal control of trade unions' powers
+  * Deregulation
+    * Role of the City of London in financial services
+  * Decline in Shipbuilding and Coal mining
+  * 1982 Faulkland war
+
+* 1990-97 Conservative John Major
+  * Northern Ireland peace process
+  * Intervene in Former Rep of Yugoslavia
+
+* 1997-2007 Tony Blair
+  * Introduced Scottish Parliament and Welsh assembly
+    * Scottish Parliament powers to significant powers legislate
+    * Welsh assembly considerable controls over public services
+  * 1998 Good Friday Agreement
+    * Northern Ireland Assembly
+  * Military
+    * 2003 Intervene in Iraq
+    * Afghanistan
+
+* 1997-2010 Gordon Brown
+
+* 2010- David Cameron
+
