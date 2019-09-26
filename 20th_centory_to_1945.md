@@ -1,0 +1,30 @@
+# The 20th Century to 1945
+
+## What happened in the First World War
+
+* June 1914 Franz Ferdinand
+* Allied Powers vs Central Powers
+* 2m British casualties
+  * Battle of the Somme, 60,000 British casualties on 1st day alone
+* November 11 1918
+
+## The partition of Ireland
+
+* 1913 British Gov promised 'Home Rule' for Ireland. Opposed by the Protestants in the northm who threatened to resist by force
+* Irish Nationalists not willing to wait. 1916 Easter Uprising against the British in Dublin
+* Guerrilla war against the British army and police in Ireland
+* 1921 Peace Treaty signed. 1922 partition of Ireland
+
+## What happened in the Second World War
+
+* Hitler 1933
+* Occupied Austria, Czechoslovakia then invaded Poland in 1939. Britain and France declared war
+* Axis powers vs the Allies
+* 1940 took control of Belgium, Netherlands and France. 1940 Churchill PM (again in 1951)
+* Evacuation of Dunkirk
+* Summer 1940 Battle of Britain, then Blitz
+* June 1941 Invasion of Soviet Union
+* Dec 1941 Pearl Harbour
+* June 6 1944 Allied forced landed in Normandy
+* May 1945 German defeat
+* August 1945 Hiroshima and Nagasaki
