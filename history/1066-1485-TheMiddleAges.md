@@ -6,7 +6,7 @@
 
 * 1284 Statute of Rhuddlan, annexed Wales
   * Castles built to maintain this power (Conwy, Caernarvon)
-* 1314 Robert the Bruce defeated the English. Scotland remained unconquered
+* 1314 Robert the Bruce (Battle of Bannockburn) defeated the English. Scotland remained unconquered
 * English established rule of an area around Dublin
 
 ### Outside

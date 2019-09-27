@@ -2,7 +2,8 @@
 
 ## Household
 
-* Television. 1932 first broadcast
+* Television
+  * 1932 first broadcast
 * Radar. 1935
 * Radio telescope
 * ATM. 60s
@@ -16,7 +17,7 @@
 
 ## Medicine
 
-* Insulin
+* Penicilin (Alexander Fleming)
 * Structure of the DNA molecule. 1953
 * IVF. 1978
 * Cloning. 1996, Dolly the sheep
