@@ -19,18 +19,17 @@
 
 ## The importance of the Industrial revolution (1800s and 1900s)
 
-### 1800s
-
 * James Watt: steam engine
 * Agriculture and manufacture of goods became mechanised
-* Rapid development of industry in Britain (mining and manufacturing)
-
-### 1900s
+* Rapid development of industry in Britain
+  * mining and manufacturing
+  * Richard Arkwright dev more efficient textive factory production
 
 * Stephenson: Railway Engine
 * Brunel
 * British industry led the world
   * 1851 Great Exhibition
+* Florence Nightingale 1800s, nursing
 
 ## The slave trade and when it was abolished
 

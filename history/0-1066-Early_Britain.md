@@ -52,3 +52,5 @@ St Patrick, St Augustine
   * Wales and Scotland unconquered
 
 * Domesday Book (Towns and villages, landowners)
+
+* The Tower of London was built by William the Conqueror

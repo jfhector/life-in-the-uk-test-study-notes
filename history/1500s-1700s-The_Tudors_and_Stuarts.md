@@ -4,7 +4,7 @@
 
 * Henry VIII's (Tudor) reigh
   * broke away from the Church of Rome (established the Church of England) so he could re-marry
-  * (Wales became formally united with England
+  * Wales became formally united with England
 
 * At the same time the reformation was happening across Europe
   * In Ireland, attempts by the English to impose Protestantism led to rebellions
@@ -24,7 +24,7 @@
 
 ## The importance of poetry and drama in the Elizabethan period
 
-* Shakespeare
+* Shakespeare (both playwright and poet)
 
 ## The involvement of Britain in Ireland
 
@@ -38,7 +38,9 @@
 * Tried to impose a revised Prayer Book on Scotland. Scottish army was formed. Needed money help from Parliament. Refused
 * Rebellion began in Ireland. Parliament demanded control of English army
 * Charles I entered Parliament tried to arrent 5 leaders.
-* 1642: Civil war btw king (the Cavaliers) and Parliament (the Roundheads). Parliament wins. Charles executed
+* 1642: Civil war btw king (the Cavaliers) and Parliament (the Roundheads)
+  * Battles of Marston Moor and Naseby
+  * Parliament wins. Charles I executed, Charless II put in exile
 
 * England declared itself a Republic called the Commonwealth
 * Army in control (Cromwell). Violently establishes authority of Parliament in Ireland and Scotland. Given the title 'Lord Protector'
@@ -46,7 +48,7 @@
 
 ## Why there was a restauration in the monarchy
 
-* Many people wanted stability, so Charles II invited to come back from Exile
+* 1660: Many people wanted stability, so Charles II invited to come back from Exile
 * Ruled with Parliament
 * 1665 plague, 1666 Great Fire
 * 1679 Habeas Corpus, every prisoner has a right to a court hearing
@@ -55,5 +57,9 @@
 
 * Charles II succeeded by brother James, Catholic
 * People worried that James wanted to make England a Catholic country again
-* Elder daughter married to William of Orange, Protestant ruler of Netherlands, asked to invade England and proclaim himself king
+* Elder daughter married Mary to William of Orange, Protestant ruler of Netherlands, asked to invade England and proclaim himself king
 * No resistance. 'Glorious Revolution' because no fighting and guaranteed power of Parliament
+
+* Mary and William's successor, queen Anne, had no surviving children. This created uncertainty, so 1707 Act of Union (with Scotland), creating the 'Kingdom of Great Britain'. Anne was succeeded by German George I, chosen by parliament as nearest Protestant relative
+
+* Sir Robert Walpole first to use the term 'Prime Minister'
