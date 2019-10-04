@@ -68,8 +68,8 @@ i.e. prominent families
 ## The Wars of the Roses and the founding of the House of Tudor
 
 * 1455 civil war to decide who should be the king of England
-  * House of Lancaster vs House of York
+  * House of Lancaster (red rose) vs House of York (white rose)
   * Ended 1486 Henry Tudor leader of House of Lancaster wins
   * Marries niece of York
-  * Creation of House of Tudor
+  * Creation of House of Tudor (red rose with white rose inside it)
   

@@ -4,7 +4,7 @@
   * Wales united during reign of Henry VIII
   * 1707 Act of Union created the Kingdom of Great Britain, incorporating Scotland
 
-* Islands closely linked to UK but not part of it:
+* Islands closely linked to UK but _not part of the UK_:
   * Crown Dependencies
     * Channel Islands
     * Isle of Man

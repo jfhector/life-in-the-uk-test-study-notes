@@ -49,7 +49,7 @@ St Patrick, St Augustine
 ## The importance of the Norman invasion in 1066
 
 * 1066 William Duke of Normandy, became king of England
-  * Battle of Agincourt. Bayeux Tapestry
+  * Battle of Hastings. Bayeux Tapestry
   * Norman French
   * Wales and Scotland unconquered
 

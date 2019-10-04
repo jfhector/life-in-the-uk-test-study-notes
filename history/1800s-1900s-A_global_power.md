@@ -35,7 +35,9 @@
 
 * By 1800, a fully established overseas industry, dominated by Britain and the American colonies (inspite of slavery being illegal in England)
 * Slaves came from West Africa, travelling on British ships, to America and the Caribbean
-* Some opposition in Britain (Quakers)
+* Some opposition in Britain
+  * Quakers
+  * William Wilberforce
 
 * 1807 became illegal to trade slaves on British ships
 * 1833 Emancipation Act: abolished slavery throughout the Empire
