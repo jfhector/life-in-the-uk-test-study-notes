@@ -20,7 +20,7 @@
   * Emprisoned and killed her cousin Mary Stuart Queen of Scots
     * In 1560 Scottish Parliament made Catholic services illegal
     * Their queen was a Catholic. Fled to England
-  * Never married. When died 1603 heir was cousin James I, who ruled over both England and Scotland
+  * Never married. When died 1603 heir was cousin James (I of England, VI of Scotland), who ruled over both England and Scotland
 
 ## Exploration
 
@@ -70,3 +70,8 @@
 * Mary and William's successor, queen Anne, had no surviving children. This created uncertainty, so 1707 Act of Union (with Scotland), creating the 'Kingdom of Great Britain'. Anne was succeeded by German George I, chosen by parliament as nearest Protestant relative
 
 * Sir Robert Walpole first to use the term 'Prime Minister'
+
+## Huguenots refugees came from France
+
+* Between 1689 and 1720
+* Were protestants persecuted in France for their religion
