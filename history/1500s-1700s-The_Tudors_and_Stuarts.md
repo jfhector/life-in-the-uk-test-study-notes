@@ -71,7 +71,28 @@
 
 * Sir Robert Walpole first to use the term 'Prime Minister'
 
-## Huguenots refugees came from France
+## Immigration
+
+### Huguenots refugees came from France
 
 * Between 1689 and 1720
 * Were protestants persecuted in France for their religion
+
+## Scotland and Ireland
+
+### Scotland
+
+#### When and why Scotland joined England and Wales to become Great Britain
+
+* Queen Anne had no surviving children
+* 1707 Act of Union created the Kingdom of Great Britain, incorporating Scotland
+
+#### The reasons for a rebellion in Scotland led by Bonnie Prince Charlie
+
+* 1745 attempt supported by Scottish clans to put a Stuart king back on throne (Charles Edward Stuart aka Bonnie Prince Charlie). Defeated
+* Then clans lost power and influence ('Highland Clearances': evictions)
+
+### Ireland
+
+* Act of Union of 1800: Ireland becomes united with England Scotland and Wales
+  * Union Jack

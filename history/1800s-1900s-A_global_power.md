@@ -76,23 +76,5 @@
 * 1870 and 1882: woman can keep their earnings and property when they marry
 * (Suffragettes movement. 1918, woman have right to vote)
 
-## Scotland and Ireland
-
-### Scotland
-
-#### When and why Scotland joined England and Wales to become Great Britain
-
-* Queen Anne had no surviving children
-* 1707 Act of Union created the Kingdom of Great Britain, incorporating Scotland
-
-#### The reasons for a rebellion in Scotland led by Bonnie Prince Charlie
-
-* 1745 attempt supported by Scottish clans to put a Stuart king back on throne (Charles Edward Stuart aka Bonnie Prince Charlie)
-* Defeated. Then clans lost power and influence
-
-### Ireland
-
-* Act of Union of 1800: Ireland becomes united with England Scotland and Wales
-  * Union Jack
 
 
