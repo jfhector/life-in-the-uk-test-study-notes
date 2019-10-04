@@ -40,7 +40,9 @@ St Patrick, St Augustine
 ### The Vikings
 
 * 789 visited from Denmark and Norway. Raids, then settlements
-* Defeated. Some stayed
+* Triggers kingdoms the kingdoms and people to unite:
+  * Anglo-Saxon kingdoms in England united under King Alfred the Great, defeated Vikings
+  * In North, people united under one king Kenneth McAlpin. Term Scotland emerged
 * Anglo-Saxon kings continued to rule
   * Except for short period Danish kings (Canute)
 
