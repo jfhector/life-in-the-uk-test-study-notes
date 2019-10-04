@@ -22,6 +22,13 @@
     * Their queen was a Catholic. Fled to England
   * Never married. When died 1603 heir was cousin James I, who ruled over both England and Scotland
 
+## Exploration
+
+* Sir Francis Drake
+  * Elizabethan sailor
+  * Helped defeat Spanish Armada
+  * Successfully sailed around the world
+
 ## The importance of poetry and drama in the Elizabethan period
 
 * Shakespeare (both playwright and poet)
