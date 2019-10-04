@@ -1,15 +1,12 @@
 # A global power
 
-## The change in the balance of power between Parliament and the monarchy
+# Key dates
 
-* 1689 Bill of Rights (at coronation of William and Mary)
-  * Parliament
-    * Decide who can be monarch
-    * Whigs and Tories
-  * Monarch
-    * Has to ask Parliament every year to renew funding for army and navy
-
-* Marks the beginning of 'constitutional monarchy'. Monarch needs agreement from MPs on policy
+* 1805: Trafalgar 1815: Waterloo
+* 1833: Emancipation Act
+* 1899: The Boers War
+* 1832: Reform Act
+* 1867: Reform Act
 
 ## The ideas of the Enlightenment (1800s)
 

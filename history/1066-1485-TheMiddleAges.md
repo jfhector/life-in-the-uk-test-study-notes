@@ -1,5 +1,15 @@
 # 1066-1485 The Middle Ages
 
+## Key dates (4)
+
+* XIIIth:
+  * 1215: Magna Carta
+* XIVth:
+  * 1348: Plague
+* XVth:
+  * 1450: End of the Hundred Years War
+  * 1455: War of the Roses
+
 ## The wars that took place in the Middle Ages
 
 ### English kings fought with the Welsh, Scottish and Irish noblemen for control of their land

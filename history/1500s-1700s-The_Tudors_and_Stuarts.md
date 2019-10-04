@@ -1,13 +1,27 @@
 # The Tudors and Stuarts
 
+## Key dates
+
+* XVIth
+  * 1588: Spanish Armada
+* XVIIth
+  * 1642: Civil War
+  * 1660: Restauration
+  * 1679: Habeas Corpus
+  * 1688: Glorious Revolution
+  * 1689: Bill of Rights
+* XVIIth:
+  * 1707: Act of the Union (Scotland)
+  * 1800: Act of the Union (Ireland)
+
 ## How and why religion changed during this period
 
 * Henry VIII's (Tudor) reigh
   * wives:
     1. Divorced: Catherine of Aragon (Mary) (Divorced)
     2. Executed: Anne Boleyn (Elizabeth) (Accused of taking lovers. Executed)
-    4. Divorced: Anne of Cleves (Divorced)
-    3. Died: Jane Seymour (Edward) (Died)
+    3. Divorced: Anne of Cleves (Divorced)
+    4. Died: Jane Seymour (Edward) (Died)
     5. Executed: Catherin Howard (cousin of Anne Boleyn. Accused of taking lovers. Executed)
     6. Survived: Catherine Parr (Survived him)
   * broke away from the Church of Rome (established the Church of England) so he could re-marry
@@ -72,15 +86,24 @@
 * Charles II succeeded by brother James, Catholic
 * People worried that James wanted to make England a Catholic country again
 * Elder daughter married Mary to William of Orange, Protestant ruler of Netherlands, asked to invade England and proclaim himself king
-* No resistance. 'Glorious Revolution' because no fighting and guaranteed power of Parliament
+* 1688: 'Glorious Revolution' because no fighting/resistance and guaranteed power of Parliament
 
 * Mary and William's successor, queen Anne, had no surviving children. This created uncertainty, so 1707 Act of Union (with Scotland), creating the 'Kingdom of Great Britain'. Anne was succeeded by German George I, chosen by parliament as nearest Protestant relative
 
 * Sir Robert Walpole first to use the term 'Prime Minister'
 
-## Immigration
+## The change in the balance of power between Parliament and the monarchy
 
-### Huguenots refugees came from France
+* 1689 Bill of Rights (at coronation of William and Mary)
+  * Parliament
+    * Decide who can be monarch
+    * Whigs and Tories
+  * Monarch
+    * Has to ask Parliament every year to renew funding for army and navy
+
+* Marks the beginning of 'constitutional monarchy'. Monarch needs agreement from MPs on policy
+
+## Huguenots refugees came from France
 
 * Between 1689 and 1720
 * Were protestants persecuted in France for their religion
@@ -103,3 +126,4 @@
 
 * Act of Union of 1800: Ireland becomes united with England Scotland and Wales
   * Union Jack
+

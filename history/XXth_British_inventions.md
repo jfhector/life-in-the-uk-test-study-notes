@@ -25,6 +25,6 @@
 
 # Computing
 
-* Turing machine. 30s
+* Turing machine. 1930s
 * World Wide Web. 25 Dec 1990
 

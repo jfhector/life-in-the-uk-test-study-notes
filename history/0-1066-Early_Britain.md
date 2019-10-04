@@ -1,5 +1,13 @@
 # Early Britain
 
+## Key dates (5)
+
+* 43 Romans conquer
+* 410 Romans leave
+* 600: Anglo-Saxon kingdoms established
+* 789: Viking invasions
+* 1066: Norman invasion
+
 ## Britain before the Romans
 
 * Hunter gatherers
