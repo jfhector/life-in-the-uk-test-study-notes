@@ -42,6 +42,8 @@
 * 1807 became illegal to trade slaves on British ships
 * 1833 Emancipation Act: abolished slavery throughout the Empire
 
+* 2m Indian and Chinese workers employed to replace the freed slaves
+
 ## The growth of the British Empire (1800s and 1900s)
 
 * Colonies in Australia and Africa
@@ -54,7 +56,8 @@
 * 1837-1901 Queen Victoria
 * Empire covers all of India, Australia and large parts of Africa. 400m
 
-* 1899 The Boer Wars. Change in public opinion: people question that Empire should continue
+* 1899 The Boer Wars (in Southern Africa, vs settlers originally from the Netherlands).
+  * Change in public opinion: people question that Empire should continue
 
 ## How democracy developped during this period
 
