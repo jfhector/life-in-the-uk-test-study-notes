@@ -3,6 +3,13 @@
 ## How and why religion changed during this period
 
 * Henry VIII's (Tudor) reigh
+  * wives:
+    1. Divorced: Catherine of Aragon (Mary) (Divorced)
+    2. Executed: Anne Boleyn (Elizabeth) (Accused of taking lovers. Executed)
+    4. Divorced: Anne of Cleves (Divorced)
+    3. Died: Jane Seymour (Edward) (Died)
+    5. Executed: Catherin Howard (cousin of Anne Boleyn. Accused of taking lovers. Executed)
+    6. Survived: Catherine Parr (Survived him)
   * broke away from the Church of Rome (established the Church of England) so he could re-marry
   * Wales became formally united with England
 
